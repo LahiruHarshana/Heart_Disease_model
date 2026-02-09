@@ -46,11 +46,6 @@ Run HeartGuard AI on your local machine for the best experience.
 -   pip (Python package manager)
 
 ### Step 1: Clone the Repository
-```bash
-git clone https://github.com/lahiruharshana/HeartGuard-AI.git
-cd Heart_Disease_model
-```
-*(Or simply download the project files if not using Git)*
 
 ### Step 2: Install Dependencies
 Install the required packages using the provided `requirements.txt`:
